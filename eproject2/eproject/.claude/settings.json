@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node seed.js)",
+      "Read(//c/Users/adity/Desktop/reactjs/e-commerce/eproject2/eproject/**)",
+      "Bash(sort -k2)",
+      "Bash(grep -E \"\\\\.js$\")",
+      "Bash(node seedorders.js)",
+      "Bash(node replaceApiUrl.js)",
+      "Bash(gh auth:*)",
+      "Bash(git config:*)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\adity\\Desktop\\reactjs\\e-commerce\\eproject2\\eproject\\public\\idata"
+    ]
+  }
+}

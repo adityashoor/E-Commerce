@@ -1,0 +1,20 @@
+# Backend dependencies
+eproject/node_modules/
+eproject/build/
+
+# Frontend dependencies
+eproject2/eproject/node_modules/
+eproject2/eproject/build/
+
+# Environment variables (never commit secrets)
+eproject/.env
+eproject2/eproject/.env.local
+eproject2/eproject/.env.production.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
